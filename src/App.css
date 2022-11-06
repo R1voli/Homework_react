@@ -1,0 +1,17 @@
+.App {
+  border: 3px solid aqua;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  width: 300px;
+  height: 100%;
+}
+
+input{
+  background: aqua;
+  color:  rgb(29, 8, 30);
+  border: 0;
+  border-radius: 5px;
+}
